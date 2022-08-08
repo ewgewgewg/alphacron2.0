@@ -134,8 +134,4 @@ async def on_message(message):
                   f'Restored channel to {restored_category_name} based on activity!'
               )
           
-          
-
-
-keep_alive(client)
 client.run(token)
