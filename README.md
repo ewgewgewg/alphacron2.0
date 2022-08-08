@@ -8,7 +8,7 @@ tags:
 
 # Python Flask Example
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a bot.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask)
 
